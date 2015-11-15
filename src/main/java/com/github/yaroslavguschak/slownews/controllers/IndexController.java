@@ -30,6 +30,8 @@ public class IndexController {
     @RequestMapping(value = "/news.html")
     public ModelAndView showNews(){
 
+        // just for commit
+
         final ModelAndView mav = new ModelAndView("WEB-INF/views/index.jsp");
 
         Rss rss = webTarget.request().get().readEntity(com.github.yaroslavguschak.slownews.classes.Rss.class);
