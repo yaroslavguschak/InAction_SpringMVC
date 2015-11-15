@@ -1,0 +1,6 @@
+com\github\yaroslavguschak\slownews\classes\DAO.class
+com\github\yaroslavguschak\slownews\classes\Article.class
+com\github\yaroslavguschak\slownews\classes\Rss.class
+com\github\yaroslavguschak\slownews\classes\Enclosure.class
+com\github\yaroslavguschak\slownews\controllers\IndexController.class
+com\github\yaroslavguschak\slownews\classes\WebTargetFabrique.class
